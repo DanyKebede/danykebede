@@ -46,6 +46,6 @@ A results-driven Full-Stack Software Engineer with over 3 years of hands-on expe
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/dany_kebede" target="blank"><img align="center" src="./x.jpg" alt="https://x.com/dany_kebede" height="30" width="40" /></a>
+<a href="https://x.com/dany_kebede" target="blank"><img align="center" src="./twiiter_x.png" alt="https://x.com/dany_kebede" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniel-kebede-se/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-kebede-se/" height="30" width="40" /></a>
 </p>
